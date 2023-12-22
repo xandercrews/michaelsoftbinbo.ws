@@ -1,0 +1,5 @@
+# surely this man would not appreciate this domain redirect
+# so lets do it
+[[redirects]]
+  from = "/*"
+  to = "https://www.instagram.com/seanwwhalen/"
